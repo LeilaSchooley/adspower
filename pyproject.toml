@@ -20,7 +20,7 @@ classifiers = [
 packages = [{ include = 'adspower' }]
 
 [tool.poetry.dependencies]
-python = '^3.11'
+python = '^3.6'
 requests = "^2.31.0"
 selenium = "^4.16.0"
 
